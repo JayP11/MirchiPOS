@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "orange",
+      "price": "100",
+      "image": "https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 2,
+      "name": "Milk",
+      "price": "200",
+      "image": "https://images.pexels.com/photos/3980612/pexels-photo-3980612.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": "300",
+      "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 4,
+      "name": "Salmon",
+      "price": "400",
+      "image": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 5,
+      "name": "Watermelon",
+      "price": "500",
+      "image": "https://images.pexels.com/photos/4965559/pexels-photo-4965559.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 6,
+      "name": "Potato",
+      "price": "600",
+      "image": "https://images.pexels.com/photos/7129145/pexels-photo-7129145.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ]
+}
